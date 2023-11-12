@@ -1,0 +1,5 @@
+Vấn đề: Đăng nhập vô dc là xong :'|
+Chỗ tìm: Xung quang LoginUserController và View của nó
+Lỗi: không tìm thấy View của LoginAccount (Thêm view cho nó cũng như không, đ hiểu cho lắm ???? )
+
+p/s: thích thì sửa file Word, t nộp trước 1 file pdf rồi

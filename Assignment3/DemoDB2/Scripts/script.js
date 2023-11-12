@@ -1,0 +1,8 @@
+﻿    function ChangeImage(UploadImage, previewImg) {
+        if (UploadImage.files && UploadImage.files[0]) {
+            var reader.onload = function (e) {
+                $(previewImg).attr('src'), e.target.result);
+            }
+            reader.readAsDataURL(UploadImage.files[0]);
+        }
+    }
